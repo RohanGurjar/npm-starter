@@ -1,0 +1,22 @@
+{
+  "name": "pilotmodule",
+  "version": "1.0.0",
+  "description": "My first npm module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Rohan Gurjar",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RohanGurjar/npm-starter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RohanGurjar/npm-starter/issues"
+  },
+  "homepage": "https://github.com/RohanGurjar/npm-starter#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
