@@ -1,0 +1,1 @@
+Following the workshop https://github.com/workshopper/how-to-npm
